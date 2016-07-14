@@ -16,7 +16,7 @@
     "locale-string": "^1.0.0",
     "obj-case": "^0.1.1",
     "reject": "0.0.1",
-    "segmentio-integration": "^3.0.5",
+    "segmentio-integration": "git+ssh://git@github.com/segmentio/integration#server-side-debugger-dep",
     "to-title-case": "^0.1.5"
   },
   "devDependencies": {
